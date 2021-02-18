@@ -279,9 +279,9 @@ plugins_js  = []
 ## Content Management System
 ############################
 [cms]
-  branch = "master"
+  branch = "main"
   local_backend = false
-
+  publish_mode = "editorial_workflow"
 ############################
 ## Icon Pack Extensions
 ############################
